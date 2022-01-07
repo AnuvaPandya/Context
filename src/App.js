@@ -8,7 +8,7 @@ function App() {
   return (
     <MovieProvider>
     <div className="App">
-       <Nav />
+       {/* <Nav /> */}
        <AddMovie />
       <MovieList />
     </div>
